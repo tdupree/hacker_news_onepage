@@ -13,6 +13,9 @@ Hacker News OnePage is released under the Open Source MIT License.
 **Ported from Greasemonkey to Chrome:** June 1, 2009  
 **Version 0.9.1 Date:** March 13, 2013  
 
+**Version 0.9.2 Date:** April 4, 2025
+**Version 0.9.2 Notes:** Removal of Artical inlining (which never worked) and very quick and dirty use of Copilot to remove jQuery dependacy. No Actual refactor of 2013 code.
+
 ## Summary
 
 Provides users with the ability to browse Hacker News articles and comments without leaving the page.  
